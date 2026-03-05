@@ -15,7 +15,7 @@ Principais Conceitos Discutidos:
 ## 💼Importância do Portfólio
 O desenvolvimento de um portfólio é tratado como evidência concreta de aprendizado, sendo vital para a preparação para desafios do mercado profissional e processos de estágio.
 
-# 📊 Critérios de Avaliação
+## 📊 Critérios de Avaliação
 O sistema de notas e as avaliações foram divididos em quatro partes principais:
 
 **AC1 (15%):** Prova escrita de múltipla escolha focada na teoria e aplicação dos conceitos.
